@@ -1,0 +1,7 @@
+{
+  "name": "tods",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}
